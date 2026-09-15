@@ -91,9 +91,6 @@ This repository contains projects I've done or am currently working on as part o
 
 Creative, focused and curious mindset 🎧
 
-Inspired by **Ryo Yamada** 🎸
-
-![Ryo Yamada](https://i.pinimg.com/736x/29/19/6c/29196cb11d23c24903d277d08f8cfcbb.jpg)
 ---
 
 ## 🌐 Languages
